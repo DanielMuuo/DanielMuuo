@@ -5,5 +5,5 @@
 - 📫 How to reach me 🤔
 
 <!---
-Soon I'll have some ✨ special ✨ repository.
+Soon I'll have some ✨ special ✨ repositories.
 <!---
